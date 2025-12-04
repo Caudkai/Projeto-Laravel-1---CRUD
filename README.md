@@ -12,10 +12,10 @@ Para rodar este projeto, será necessário:
 
 ## Comandos necessários
 
-composer install              # gera a pasta vendor com dependências PHP
-npm install                   # gera a pasta node_modules com dependências JS
-php artisan key:generate      # gera a chave da aplicação
-php artisan migrate           # cria as tabelas no banco de dados
-php artisan db:seed           # popula o banco com dados de exemplo
-npm run dev                   # compila os assets (CSS/JS)
-php artisan serve             # inicia o servidor de desenvolvimento
+- composer install              # gera a pasta vendor com dependências PHP
+- npm install                   # gera a pasta node_modules com dependências JS
+- php artisan key:generate      # gera a chave da aplicação
+- php artisan migrate           # cria as tabelas no banco de dados
+- php artisan db:seed           # popula o banco com dados de exemplo
+- npm run dev                   # compila os assets (CSS/JS)
+- php artisan serve             # inicia o servidor de desenvolvimento
